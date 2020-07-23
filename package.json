@@ -1,0 +1,15 @@
+{
+  "name": "blogger-comments",
+  "version": "1.0.0",
+  "description": "Blogger Comments",
+  "main": "index.js",
+  "author": "Riski <riski.web.id@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.9"
+  }
+}
